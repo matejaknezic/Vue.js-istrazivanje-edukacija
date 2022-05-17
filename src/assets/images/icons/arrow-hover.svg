@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="70px" viewBox="0 0 46 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <defs>
+        <path d="M36.9337668,33.6279295 L13.8072897,10.5654171 C13.0495777,9.81024406 11.8228244,9.81151359 11.0663819,10.5693233 C10.3105253,11.3270353 10.3124784,12.5544722 11.0702881,13.3102311 L32.8202077,35.0000924 L11.0695069,56.689856 C10.3117948,57.4457126 10.3098417,58.6723682 11.0656006,59.4301779 C11.4447984,59.8100593 11.9415739,60 12.4383495,60 C12.9338554,60 13.4286778,59.8113288 13.8071921,59.4340841 L36.9337668,36.3721576 C37.2987068,36.009073 37.5034912,35.5149342 37.5034912,35.0000924 C37.5034912,34.4852505 37.2981209,33.9916977 36.9337668,33.6279295 Z" id="path-1"></path>
+        <filter x="-55.5%" y="-30.0%" width="211.1%" height="160.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0241976466   0 0 0 0 0.149945249   0 0 0 0 0.280825408  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Dizajn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="next-(1)-copy-2" transform="translate(24.000000, 35.000000) rotate(180.000000) translate(-24.000000, -35.000000) translate(1.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Path" transform="translate(24.001746, 35.000000) rotate(180.000000) translate(-24.001746, -35.000000) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#71ACD2" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
