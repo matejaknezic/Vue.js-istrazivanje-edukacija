@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 7" width="14" height="7">
+	<title>arrow-btn-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #71acd2 } 
+	</style>
+	<g id="Dizajn">
+		<g id="Početna---r1">
+			<g id="Group-39">
+				<g id="Group-63">
+					<g id="right-arrow">
+						<path id="Path" class="s0" d="m0.16 3.1c0 0 0 0 0 0l2.86-2.94c0.21-0.22 0.56-0.22 0.77 0c0.21 0.22 0.21 0.58 0 0.8l-1.92 1.97l11.58 0c0.3 0 0.55 0.25 0.55 0.56c0 0.31-0.24 0.56-0.55 0.56l-11.58 0l1.92 1.97c0.21 0.22 0.21 0.58 0 0.8c-0.21 0.22-0.56 0.22-0.77 0l-2.86-2.94c0 0 0 0 0 0c-0.21-0.22-0.21-0.58 0-0.8z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

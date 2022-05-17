@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="8px" viewBox="0 0 8 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1BFBA7E7-CB2A-437C-BC57-8C952C6289A8</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="79.5" height="8" rx="4"></rect>
+    </defs>
+    <g id="Dizajn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Checkout---prijava" transform="translate(-1246.000000, -53.000000)">
+            <g id="Header" transform="translate(420.000000, 37.000000)">
+                <g id="Dovrsetak-narudzbe" transform="translate(641.000000, 13.000000)">
+                    <g id="progress-bar" transform="translate(172.000000, 3.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Rectangle-Copy" fill="#71ACD2" xlink:href="#path-1"></use>
+                        <rect id="Rectangle-Copy-5" fill="#1661A2" mask="url(#mask-2)" transform="translate(14.000000, 3.922523) rotate(16.000000) translate(-14.000000, -3.922523) " x="12" y="-3.07747661" width="4" height="14"></rect>
+                        <rect id="Rectangle-Copy-6" fill="#1661A2" mask="url(#mask-2)" transform="translate(22.000000, 3.922523) rotate(16.000000) translate(-22.000000, -3.922523) " x="20" y="-3.07747661" width="4" height="14"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

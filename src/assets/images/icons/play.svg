@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>play button</title>
+    <g id="Dizajn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Početna---r1" transform="translate(-633.000000, -7320.000000)" fill="#1661A2" fill-rule="nonzero">
+            <g id="Group-77" transform="translate(260.000000, 6966.000000)">
+                <g id="Group-75" transform="translate(0.000000, 144.000000)">
+                    <g id="Group-50" transform="translate(345.000000, 185.000000)">
+                        <g id="play" transform="translate(27.875000, 25.000000)">
+                            <path d="M17.0527173,9.14982033 L1.45274721,0.374837152 C1.15049779,0.205187477 0.781948501,0.20908747 0.483599073,0.382637137 C0.183299649,0.5581368 0,0.877936187 0,1.22503552 L0,18.7750019 C0,19.1221012 0.183299649,19.4419006 0.483599073,19.6174003 C0.635698781,19.7051501 0.805348456,19.75 0.97499813,19.75 C1.13879782,19.75 1.3045475,19.7090501 1.45274721,19.6252002 L17.0527173,10.8502171 C17.3588667,10.6766674 17.5499663,10.352968 17.5499663,10.0000187 C17.5499663,9.64706937 17.3588667,9.32336999 17.0527173,9.14982033 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="34px" viewBox="0 0 18 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>C789AAE8-824F-432A-B50E-4378309AF6D2</title>
+    <defs>
+        <filter x="-76.6%" y="-154.0%" width="253.2%" height="408.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="20" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.125   0 0 0 0 0.108359603   0 0 0 0 0.094547923  0 0 0 0.35 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Početna-v2---dorade-v1" transform="translate(-201.000000, -742.000000)" fill="#B49175" fill-rule="nonzero">
+            <g id="Slider" transform="translate(159.000000, 128.000000)">
+                <g id="Slider-arrows" filter="url(#filter-1)" transform="translate(0.000000, 581.000000)">
+                    <g id="Group-16" transform="translate(42.000000, 33.000000)">
+                        <path d="M17.972982,16.0864682 L2.2900991,0.403585362 C1.77090991,-0.097838061 0.943576577,-0.0834416646 0.442153153,0.435747525 C-0.047018018,0.942225002 -0.047018018,1.74513041 0.442153153,2.25153131 L15.2010631,17.0104412 L0.442153153,31.7693511 C-0.0680765766,32.2796574 -0.0680765766,33.1069908 0.442153153,33.6172971 C0.952536036,34.1275268 1.77979279,34.1275268 2.2900991,33.6172971 L17.972982,17.9344142 C18.4832117,17.4240313 18.4832117,16.5967746 17.972982,16.0864682 Z" id="Path" transform="translate(9.207568, 17.018353) rotate(180.000000) translate(-9.207568, -17.018353) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
