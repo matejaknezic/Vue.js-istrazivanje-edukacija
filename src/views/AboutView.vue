@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>test
-  </div>
+		<CmsWidgetPageHeader>
+			<h1>O nama</h1>
+		</CmsWidgetPageHeader>
 </template>
