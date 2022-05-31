@@ -1,9 +1,9 @@
 <template>
-  <nav>
-    <router-link to="/">Početna</router-link> |
-    <router-link to="/about">O nama</router-link>
-  </nav>
-  <router-view />
+  	<div class="page-wrapper">
+		<UiHeader/>
+		<component :is="component" :data="item"/>
+		<UiFooter/>
+	</div>
   <div>hello {{ person.name }}</div>
   <div> {{ person.age }}</div>
   <div v-if="person.isDev">I am a dev</div>
@@ -42,9 +42,11 @@
 
 <script>
 import ListaZelja from './components/ListaZelja.vue'
+import UiHeader from './components/ui/Header.vue'
   export default {
     components:{
-      ListaZelja
+      ListaZelja,
+      UiHeader
     },
   data(){
       return{
