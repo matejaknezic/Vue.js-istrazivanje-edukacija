@@ -1,8 +1,9 @@
 <template>
+  <UiHeader/>
   	<div class="page-wrapper">
-		<UiHeader/>
+
 		<component :is="component" :data="item"/>
-		<UiFooter/>
+
 	</div>
   <div>hello {{ person.name }}</div>
   <div> {{ person.age }}</div>
@@ -37,16 +38,18 @@
     <div>Moja lista želja:</div>
     <ListaZelja :myProp="ListaZeljaArray"/>
   </div>
-
+<UiFooter/>
 </template>
 
 <script>
 import ListaZelja from './components/ListaZelja.vue'
 import UiHeader from './components/ui/Header.vue'
+import UiFooter from './components/ui/Footer.vue'
   export default {
     components:{
       ListaZelja,
-      UiHeader
+      UiHeader,
+      UiFooter
     },
   data(){
       return{
@@ -110,9 +113,12 @@ nav {
 nav a {
   font-weight: bold;
   color: #2c3e50;
+  margin-right: 10px;
 }
 
 nav a.router-link-exact-active {
   color: #42b983;
 }
+.footer-bottom{
+	background: url(assets/images/footer_bg.jpg) no-repeat center; background-size: cover; height:280px;}
 </style>
